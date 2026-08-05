@@ -120,7 +120,7 @@ The Power BI dashboard includes:
 _Add your Excel dashboard screenshot here._
 
 ```markdown
-![Excel Dashboard](Images/Excel_Dashboard.png)
+![Excel Dashboard](Excel%20dashboard.png)
 ```
 
 ### Power BI Dashboard
@@ -128,7 +128,7 @@ _Add your Excel dashboard screenshot here._
 _Add your Power BI dashboard screenshot here._
 
 ```markdown
-![Power BI Dashboard](Images/PowerBI_Dashboard.png)
+![Power BI Dashboard](Power%20bi%20dashboard.png)
 ```
 
 ---
